@@ -6,3 +6,20 @@
 ###### adhd的特性也是被我发挥得淋漓尽致了，在主线的过程中，分出了不少支线，同时也是智商、精力代偿。虽说启动困难阻碍了我们很多，但是也是变相地利用它让我们能起身去做。也是和这个生态和平相处了啊
 
 ![a cute,fancy,surprised,winking,naughty kitty](https://art.pixilart.com/sr5z836411201faws3.png)
+
+```python
+a=10
+b=3
+c=a+b
+print(c)
+```
+```java
+public class SumExample{
+  public static void main(String [] args){
+    int a = 10;
+    int b = 3;
+    int c = a + b;
+    System.out.println(c);
+  }
+}
+```
