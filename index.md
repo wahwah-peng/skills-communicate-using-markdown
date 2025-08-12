@@ -1,3 +1,4 @@
+add headers
 # 我会挣扎着向前
 ## 我会一直向前，直到到达彼岸
 ### 我的野心永无止境，彼岸那边是又一个彼岸，又是新的风景，等待我出发
@@ -5,8 +6,10 @@
 ##### 虽然被逼入绝境，但我为之高兴的是——我的少年心气、野心，通通回归
 ###### adhd的特性也是被我发挥得淋漓尽致了，在主线的过程中，分出了不少支线，同时也是智商、精力代偿。虽说启动困难阻碍了我们很多，但是也是变相地利用它让我们能起身去做。也是和这个生态和平相处了啊
 
+add an image
 ![a cute,fancy,surprised,winking,naughty kitty](https://art.pixilart.com/sr5z836411201faws3.png)
 
+add code blocks
 ```python
 a=10
 b=3
@@ -23,3 +26,8 @@ public class SumExample{
   }
 }
 ```
+
+add a task list
+- [x] study markdown syntax
+- [ ] record my progress in these 2 days
+
